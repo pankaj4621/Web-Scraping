@@ -1,4 +1,4 @@
-# Web-Screaping
+# Web-Scraping
 <h2>This repo contains information scraped from the dummy website "http://books.toscrape.com/" by using BeautifulSoup</h2>
 <h3>Information contains following points.</h3>
 <ul>
